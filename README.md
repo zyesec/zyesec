@@ -1,43 +1,37 @@
-# Hacking e Segurança Cibernética
+# Hacking and Cybersecurity
 
 <p align="center">
-  <img src="chapeu_preto.png" alt="Chapéu Preto" width="400"/>
+  <img src="[chapeu_preto.png](https://cdn.discordapp.com/attachments/1107159537628221470/1288095708875980870/hacker_PNG23.png?ex=66f3f01c&is=66f29e9c&hm=64d236e16550c8af7f0e6d31ac6e684f390164aa33208ab1c198512d5079a74e&)" alt="Black Hat" width="400"/>
 </p>
 
-## Sobre Mim
+## About Me
 
-Sou um especialista em **Hacking e Segurança Cibernética** com amplo conhecimento em técnicas de hackers "chapéu preto", gray hats e pentesting. Minha experiência abrange:
+I am a specialist in **Hacking and Cybersecurity** with extensive knowledge in black hat hacking techniques, gray hats, and pentesting. My experience includes:
 
-- **Linguagens de Programação**: Python, JavaScript e C#
-- **Segurança de Sistemas**: Avaliação de vulnerabilidades e testes de penetração
-- **Hacking Ético**: Práticas responsáveis e éticas em segurança cibernética
+- **Programming Languages**: Python, JavaScript, and C#
+- **System Security**: Vulnerability assessment and penetration testing
+- **Ethical Hacking**: Responsible and ethical practices in cybersecurity
 
-## Conhecimentos
+## Knowledge Areas
 
-- **Hacker Chapéu Preto**: Exploração de vulnerabilidades e técnicas de ataque.
-- **Gray Hat**: Análise de sistemas sem autorização com intenção de alertar sobre falhas.
-- **Pentesting**: Simulação de ataques para identificar e corrigir vulnerabilidades.
+- **Black Hat Hacker**: Exploiting vulnerabilities and attack techniques.
+- **Gray Hat**: Analyzing systems without authorization with the intent to alert about flaws.
+- **Pentesting**: Simulating attacks to identify and fix vulnerabilities.
 
-## Linguagens de Programação
+## Programming Languages
 
-- **Python**: Automação e análise de rede.
-- **JavaScript**: Hacking de aplicações web.
-- **C#**: Desenvolvimento de ferramentas de hacking em ambientes Windows.
+- **Python**: Automation and network analysis.
+- **JavaScript**: Web application hacking.
+- **C#**: Developing hacking tools in Windows environments.
 
-## Recursos
+## License
 
-- **Artigos e Tutoriais**
-- **Ferramentas de Hacking**
-- **Comunidades e Fóruns de Segurança**
+This project is under the MIT License. See [LICENSE](LICENSE).
 
-## Licença
+## Contributions
 
-Sob a Licença MIT. Veja [LICENSE](LICENSE).
-
-## Contribuições
-
-Contribuições são bem-vindas! Abra issues ou pull requests para melhorar este repositório.
+Contributions are welcome! Feel free to open issues or pull requests to improve this repository.
 
 ---
 
-**Nota:** Este repositório é destinado a fins educacionais e de conscientização sobre segurança cibernética. Use as informações de forma ética e responsável.
+**Note:** This repository is intended for educational purposes and awareness about cybersecurity. Use the information ethically and responsibly.
