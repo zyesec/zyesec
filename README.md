@@ -1,7 +1,7 @@
 # Hacking and Cybersecurity
 
 <p align="center">
-  <img src="[chapeu_preto.png](https://cdn.discordapp.com/attachments/1107159537628221470/1288095708875980870/hacker_PNG23.png?ex=66f3f01c&is=66f29e9c&hm=64d236e16550c8af7f0e6d31ac6e684f390164aa33208ab1c198512d5079a74e&)" alt="Black Hat" width="400"/>
+  <img src="https://cdn.discordapp.com/attachments/1107159537628221470/1288095708875980870/hacker_PNG23.png?ex=66f3f01c&is=66f29e9c&hm=64d236e16550c8af7f0e6d31ac6e684f390164aa33208ab1c198512d5079a74e" alt="Black Hat" width="400"/>
 </p>
 
 ## About Me
